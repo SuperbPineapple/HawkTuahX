@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <Button Content="Hawk Tuah!" Width="150" Height="50" HorizontalAlignment="Center"/>
     </Grid>
 </Page>
